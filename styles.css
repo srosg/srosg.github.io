@@ -137,6 +137,7 @@ body {
 .notice h1 {
     color: rgb(0, 0, 0);
     font-size: 40px;
+    text-align: center;
     margin-top: 20px;
     font-family:  Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
