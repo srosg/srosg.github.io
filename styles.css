@@ -138,42 +138,20 @@ body {
     white-space: pre-line;
 }
 .footer {
-    margin-top: 30px;
-    height: 400px;
-    width: auto;
-    background-color: #fafafa;
-    padding: 0 20px;
+margin-top: 30px;
+height: 480px;
+width: auto;
+background-color: #fafafa;
+padding: 0 20px;
+background-image: url('/assets/cover_photo.jpg');
+background-size: 100% 100%;
 }
 .footer ._1 {
-    display: flex;
-    padding: 0 20px;
-    justify-content: space-between;
-    margin-top: 20px;
-    align-items: center;
-}
-.footer ._1 span {
-    font-size: 30px;
-    font-family: "Tiro Bangla", serif;
-    font-weight: bolder;
-}
-.footer ._1 img {
-    width: 90px;
-}
-.footer ._2 {
-    margin-top: 50px;
-}
-.footer ul {
-    list-style-type: none;
-    margin-top: 5px;
-    padding: 0 0px;
-}
-.footer ul li a {
-    color: black;
-    font-size: 20px;
-    margin-top: 5px;
-    font-weight: bold;
-    text-decoration: underline;
-    margin-left: 5px;
+display: flex;
+padding: 0 20px;
+justify-content: space-between;
+margin-top: 20px;
+align-items: center;
 }
 @media only screen and (max-width: 600px) {
     /* .con1 {
